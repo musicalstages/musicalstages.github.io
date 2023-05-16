@@ -1,0 +1,153 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  display: block;
+  right: 0;    
+  left: 0;
+  width: 100%;
+  background-color: #000000;
+  color: white;
+  height: 38px;
+}
+.navbar a.active {
+  background-color: #000000;
+  color: white;
+  text-align: left;
+}
+.navbar a.active:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+.navbar a.active2 {
+  background-color: #1ac017;
+  color: white;
+  text-align: left;
+}
+.navbar a.active2:hover {
+  background-color: #beff33;
+  color: black;
+}
+.navbar a.active3 {
+  background-color: #0a0cad;
+  color: white;
+  text-align: left;
+}
+.navbar a.active3:hover {
+  background-color: #5d7ef7;
+  color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Century Gothic;;
+  font-size: 8.5pt;
+  color: white;
+  background-color: #black;
+}
+li {
+  background-color: #000000;
+  float: right;
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: left;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #f2f2f2;
+  color:  black;
+}
+li .dropdown {
+  display: inline-block;
+  position: relative;
+}
+li .active {
+  color: white;
+}
+li .disabled {
+  position: relative;
+
+}
+li .disabled:hover {
+  background-color: #000000;
+  color:  white;
+}
+.dropdown {
+  overflow: hidden;
+  background-color: #000000;
+  border-right: none;
+  float: cen;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #4d4d4d;
+  color:  white;
+  min-width: 180px;
+  z-index: 1;
+}
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 5px 5px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a:hover {
+  display: block;
+  background-color: #f2f2f2;
+  color:  black;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 0px 12px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: #f2f2f2
+}
+
+.subnav-content {
+  display: none;
+  position: fixed;
+  align-content: right;
+  left: 0;
+  background-color: #f2f2f2;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  color: white;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+    background-color: #4d4d4d;
+  }

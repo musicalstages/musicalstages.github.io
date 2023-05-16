@@ -1,0 +1,667 @@
+#language {
+  border:2px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#language th {
+  border:2px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 12pt;
+  color: #ffffff;
+}
+#language td {
+  border:2px solid #c0c0c0;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 12pt;
+  color: #000000;
+  direction: auto;
+}
+#language tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#language tr:nth-child(even) {
+  background-color: #ffffff;
+  padding:8px;
+}
+
+#language td:nth-child(even) {
+  padding-left:5px;
+}
+
+#albumlist {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#albumlist th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#albumlist td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#albumlist td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#albumlist td:nth-child(4) {
+  text-align: center;
+}
+#albumlist td:nth-child(5) {
+  text-align: center;
+}
+#albumlist td:nth-child(6) {
+  text-align: center;
+}
+#albumlist td:nth-child(7) {
+  text-align: center;
+}
+#albumlist td:nth-child(8) {
+  text-align: center;
+}
+#albumlist img {
+  border-radius: 8px;
+}
+#albumlist tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#albumlist tr:nth-child(even){
+  background-color: white;
+}
+
+#cast {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#cast th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#cast td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#cast td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#cast td:nth-child(4) {
+  text-align: center;
+}
+#cast td:nth-child(5) {
+  text-align: center;
+}
+#cast td:nth-child(6) {
+  text-align: center;
+}
+#cast td:nth-child(7) {
+  text-align: center;
+}
+#cast td:nth-child(8) {
+  text-align: center;
+}
+#cast td:nth-child(12) {
+font-weight: bold;
+}
+#cast img {
+  border-radius: 8px;
+}
+#cast tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#cast tr:nth-child(even){
+  background-color: white;
+}
+
+#castind {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#castind th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#castind td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+        }
+#castind td:nth-child(2) {
+font-weight: bold;
+}
+#castind td:nth-child(3) {
+  text-align: center;
+}
+#castind td:nth-child(4) {
+  text-align: center;
+}
+#castind td:nth-child(5) {
+  text-align: center;
+}
+#castind td:nth-child(6) {
+  text-align: center;
+}
+#castind td:nth-child(7) {
+  text-align: center;
+}
+#castind td:nth-child(9) {
+font-weight: bold;
+}
+#castind img {
+  border-radius: 8px;
+}
+#castind tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#castind tr:nth-child(even){
+  background-color: white;
+}
+
+
+#boots  {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#boots  th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #ffffff;
+}
+#boots  td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+}
+#boots  td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#boots  td:nth-child(4) {
+  text-align: center;
+}
+#boots  td:nth-child(5) {
+  text-align: center;
+}
+#boots  td:nth-child(6) {
+  text-align: center;
+}
+#boots  td:nth-child(7) {
+  text-align: center;
+}
+#boots  td:nth-child(8) {
+  text-align: center;
+}
+#boots  td:nth-child(9) {
+  text-align: center;
+}
+#boots td:nth-child(13) {
+font-weight: bold;
+}
+#boots  img {
+  border-radius: 8px;
+}
+#boots  tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#boots  tr:nth-child(even){
+  background-color: white;
+}
+
+
+#bootsind  {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#bootsind  th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#bootsind  td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+        }
+#bootsind  td:nth-child(2) {
+font-weight: bold;
+}
+#bootsind  td:nth-child(3) {
+  text-align: center;
+}
+#bootsind  td:nth-child(4) {
+  text-align: center;
+}
+#bootsind  td:nth-child(5) {
+  text-align: center;
+}
+#bootsind  td:nth-child(6) {
+  text-align: center;
+}
+#bootsind  td:nth-child(7) {
+  text-align: center;
+}
+#bootsind  td:nth-child(8) {
+  text-align: center;
+}
+#bootsind  td:nth-child(10) {
+font-weight: bold;
+}
+#bootsind  img {
+  border-radius: 8px;
+}
+#bootsind  tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#bootsind  tr:nth-child(even){
+  background-color: white;
+}
+#tvshows {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#tvshows th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#tvshows td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#tvshows td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#tvshows td:nth-child(3) {
+  text-align: center;
+}
+#tvshows td:nth-child(4) {
+  text-align: center;
+}
+#tvshows td:nth-child(5) {
+  text-align: center;
+}
+#tvshows td:nth-child(6) {
+  text-align: center;
+}
+#tvshows td:nth-child(7) {
+  text-align: center;
+}
+#tvshows img {
+  border-radius: 8px;
+}
+#tvshows tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#tvshows tr:nth-child(even){
+  background-color: white;
+}
+#playsvid {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#playsvid th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#playsvid td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#playsvid td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#playsvid td:nth-child(3) {
+  text-align: center;
+}
+#playsvid td:nth-child(4) {
+  text-align: center;
+}
+#playsvid td:nth-child(5) {
+  text-align: center;
+}
+#playsvid td:nth-child(6) {
+  text-align: center;
+}
+#playsvid img {
+  border-radius: 8px;
+}
+#playsvid tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#playsvid tr:nth-child(even){
+  background-color: white;
+}
+#movies {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#movies th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#movies td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#movies td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#movies td:nth-child(3) {
+  text-align: center;
+}
+#movies td:nth-child(4) {
+  text-align: center;
+}
+#movies td:nth-child(5) {
+  text-align: center;
+}
+#movies td:nth-child(6) {
+  text-align: center;
+}
+#movies img {
+  border-radius: 8px;
+}
+#movies tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#movies tr:nth-child(even){
+  background-color: white;
+}
+
+#written {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: white;
+}
+#written td:first-child {
+  font-weight: bold;
+  text-align: left;
+}
+#written td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  height: 35px ;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #000000;
+  direction: auto;
+}
+#written tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#written tr:nth-child(even){
+  background-color: #ffffff;  
+}
+ #written td:nth-child(1){
+  font-weight: bold;
+  font-size: 11pt;
+}
+
+#written {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: white;
+}
+
+
+#written2 {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written2 th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: white;
+}
+#written2 td:first-child {
+  font-weight: bold;
+  text-align: left;
+}
+#written2 td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  height: 35px ;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #000000;
+  direction: auto;
+}
+#written2 tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#written2 tr:nth-child(even){
+  background-color: #ffffff;   
+}
+ #written2 td:nth-child(1){
+  font-weight: bold;
+  font-size: 11pt;
+}
+ #written2 td:nth-child(3){
+text-align: center;
+} #written2 td:nth-child(4){
+text-align: center;
+}
+ #written2 td:nth-child(5){
+text-align: center;
+}
+#written2 {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written2 th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: white;
+}
+
+#audiobooks {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#audiobooks th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#audiobooks td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #000000;
+  direction: auto;
+}
+#audiobooks td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#audiobooks td:nth-child(4) {
+  text-align: center;
+}
+#audiobooks td:nth-child(5) {
+  text-align: center;
+}
+#audiobooks td:nth-child(6) {
+  text-align: center;
+}
+#audiobooks td:nth-child(7) {
+  text-align: center;
+}
+#audiobooks img {
+  border-radius: 8px;
+}
+#audiobooks tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#audiobooks tr:nth-child(even){
+  background-color: white;
+}
+#operavid {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#operavid th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#operavid td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+ #operavid td:nth-child(1){
+  font-weight: bold;
+  font-size: 11pt;
+}
+#operavid td:nth-child(3) {
+  text-align: center;
+}
+#operavid td:nth-child(4) {
+  text-align: center;
+}
+#operavid td:nth-child(5) {
+  text-align: center;
+}
+#operavid td:nth-child(6) {
+  text-align: center;
+}
+#operavid tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#operavid tr:nth-child(even){
+  background-color: white;
+}
+#new {
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#new th {
+  padding-left:5px;
+  padding-right: 5px;
+  background: #767684;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 8pt;
+  color: #ffffff;
+}
+#new tr {
+  background-color:   #f2f3f4;
+}
+#new td {
+  padding:5px;
+  font-family: Century Gothic, sans-serif;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#new  img {
+  border-radius: 8px;
+}
