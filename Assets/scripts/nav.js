@@ -115,7 +115,7 @@ document.write(`
 <a href="nddp.html"><img src="images/misc/nddp.png" height="35px"></a>
 <a href="nunsense.html"><img src="images/misc/nunsense.png" height="35px"></a>
 <a href="oklahoma.html"><img src="images/misc/oklahoma2.png" height="35px"></a>
-<a href="oliver.html"><img src="images/misc/oliver.png" height="35px"></a>
+<a href="oliver.html"><img src="images/misc/oliver2.png" height="35px"></a>
 <a href="poto.html"><img src="images/misc/poto2.png" height="35px"></a>
 <a href="porgy.html"><img src="images/misc/porgy.png" height="35px"></a>
 <a href="rocky.html"><img src="images/misc/rocky2.png" height="35px"></a>
