@@ -4,7 +4,7 @@ document.write(`
 
 <li><a class="active3" href="contact.html">&nbsp;&nbsp;<img src="images/misc/mail.png">&nbsp;&nbsp;</a>
 <li><a class="active" href="new.html">¿Qué hay de nuevo?<br>What's New?</a>
-<li><a class="active" href="guide.html">Notas y guía<br>Notes & Guidelines</a>
+<li><a class="active" href="notes.html">Notas y guía<br>Notes & Guidelines</a>
 <li class="active"><a href="links.html">Enlaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List&nbsp;&nbsp;</a><li>
 
@@ -159,7 +159,7 @@ document.write(`
 
 <div class="subnav"><a href="javascript:void(0)" class="dropbtn">Audios no comerciales<br>Non-Commercial Audios</a>
 <div class="subnav-content">
-<a href="bloodboots.html"><img src="images/misc/blood.png" height="35px"></a>
+<a href="bloodboots.html"><img src="images/misc/blood2.png" height="35px"></a>
 <a href="catsboots.html"><img src="images/misc/cats2.png" height="35px"></a>
 <a href="chessboots.html"><img src="images/misc/chess2.png" height="35px"></a>
 <a href="chicagoboots.html"><img src="images/misc/chicago.png" height="35px"></a>
