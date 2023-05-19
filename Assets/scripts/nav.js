@@ -29,6 +29,7 @@ document.write(`
 <div class="dropdown-content">
 <a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
 <a href="movies.html">Películas<br>Movies</a>
+<a href="lgbt.html">Películas de temática gay<br>Gay Themed Movies</a>
 <a href="tvshows.html">Telévision<br>TV Shows</a>
 <a href="docs2.html">Documentales de largometraje<br>Feature Documentaries</a>
 </div>
@@ -41,8 +42,6 @@ document.write(`
 <a href="compilations2.html">Compilaciónes<br>Compilations</a>
 <a href="latina.html">Música Latina<br>Latin Music</a>
 <a href="francaise.html">Música Frances<br>French Music</a>
-<a href="cymraeg.html">Música Galesa<br>Welsh Music</a>
-<a href="irish.html">Música Irlandesa<br>Irish Music</a>
 <a href="comedy.html">Comedia<br>Comedy</a>
 <a href="christmas.html">Música Navidad<br>Christmas Music</a>
 </div>
