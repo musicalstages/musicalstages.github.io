@@ -86,7 +86,7 @@ document.write(`
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Bandas Sonoras<br>Cast Albums</a>
 <div class="subnav-content">
-<a href="annie.html"><img src="images/misc/annie.png" height="35px"></a>
+<a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="blood.html"><img src="images/misc/blood2.png" height="35px"></a>
 <a href="cabaret.html"><img src="images/misc/cabaret.png" height="35px"></a>
@@ -95,7 +95,7 @@ document.write(`
 <a href="chicago.html"><img src="images/misc/chicago.png" height="35px"></a>
 <a href="sisi.html"><img src="images/misc/sisi2.png" height="35px"></a>
 <a href="evita.html"><img src="images/misc/evita2.png" height="35px"></a>
-<a href="fiddler.html"><img src="images/misc/fiddler.png" height="35px"></a>
+<a href="fiddler.html"><img src="images/misc/fiddler2.png" height="35px"></a>
 <a href="godspell.html"><img src="images/misc/godspell.png" height="35px"></a>
 <a href="grease.html"><img src="images/misc/grease2.png" height="35px"></a>
 <a href="hair.html"><img src="images/misc/hair2.png" height="35px"></a>
@@ -111,12 +111,12 @@ document.write(`
 <a href="lesmis.html"><img src="images/misc/lesmis2.png" height="35px"></a>
 <a href="saigon.html"><img src="images/misc/saigon2.png" height="35px"></a>
 <a href="mfl.html"><img src="images/misc/mfl2.png" height="35px"></a>
-<a href="nddp.html"><img src="images/misc/nddp.png" height="35px"></a>
-<a href="nunsense.html"><img src="images/misc/nunsense.png" height="35px"></a>
+<a href="nddp.html"><img src="images/misc/nddp2.png" height="35px"></a>
+<a href="nunsense.html"><img src="images/misc/nunsense2.png" height="35px"></a>
 <a href="oklahoma.html"><img src="images/misc/oklahoma2.png" height="35px"></a>
 <a href="oliver.html"><img src="images/misc/oliver2.png" height="35px"></a>
 <a href="poto.html"><img src="images/misc/poto2.png" height="35px"></a>
-<a href="porgy.html"><img src="images/misc/porgy.png" height="35px"></a>
+<a href="porgy.html"><img src="images/misc/porgy2.png" height="35px"></a>
 <a href="rocky.html"><img src="images/misc/rocky2.png" height="35px"></a>
 <a href="boat.html"><img src="images/misc/boat2.png" height="35px"></a>
 <a href="som.html"><img src="images/misc/som2.png" height="35px"></a>
@@ -126,7 +126,7 @@ document.write(`
 <a href="sweeney.html"><img src="images/misc/sweeney2.png" height="35px"></a>
 <a href="tanz.html"><img src="images/misc/tanz2.png" height="35px"></a>
 <a href="west.html"><img src="images/misc/west2.png" height="35px"></a>
-<a href="wizard.html"><img src="images/misc/wizard.png" height="35px"></a>
+<a href="wizard.html"><img src="images/misc/wizard2.png" height="35px"></a>
 
 <a href="Cast Albums 0.html">#</a>
 <a href="Cast Albums A.html">A</a>
@@ -164,7 +164,7 @@ document.write(`
 <a href="chicagoboots.html"><img src="images/misc/chicago.png" height="35px"></a>
 <a href="sisiboots.html"><img src="images/misc/sisi2.png" height="35px"></a>
 <a href="evitaboots.html"><img src="images/misc/evita2.png" height="35px"></a>
-<a href="jekyllboots.html"><img src="images/misc/jekyll.png" height="35px"></a>
+<a href="jekyllboots.html"><img src="images/misc/jekyll2.png" height="35px"></a>
 <a href="jcsboots.html"><img src="images/misc/jcs2.png" height="35px"></a>
 <a href="josephboots.html"><img src="images/misc/joseph2.png" height="35px"></a>
 <a href="lesmisboots.html"><img src="images/misc/lesmis2.png" height="35px"></a>
