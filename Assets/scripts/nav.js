@@ -89,7 +89,7 @@ document.write(`
 <a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="blood.html"><img src="images/misc/blood2.png" height="35px"></a>
-<a href="cabaret.html"><img src="images/misc/cabaret.png" height="35px"></a>
+<a href="cabaret.html"><img src="images/misc/cabaret2.png" height="35px"></a>
 <a href="cats.html"><img src="images/misc/cats2.png" height="35px"></a>
 <a href="chess.html"><img src="images/misc/chess2.png" height="35px"></a>
 <a href="chicago.html"><img src="images/misc/chicago.png" height="35px"></a>
