@@ -2,14 +2,15 @@ document.write(`
 
 <ul>
 
-<li><a class="active3" href="contact.html">&nbsp;&nbsp;<img src="images/misc/mail.png">&nbsp;&nbsp;</a>
+<li><a class="active3" href="contact.html">&nbsp;<img src="images/misc/mail.png">&nbsp;</a>
 <li><a class="active" href="new.html">¿Qué hay de nuevo?<br>What's New?</a>
-<li><a class="active" href="notes.html">Notas y guía<br>Notes & Guidelines</a>
-<li class="active"><a href="links.html">Enlaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List&nbsp;&nbsp;</a><li>
+<li><a class="active" href="notes.html">Notas sobre las listas<br>Noteson the liostings</a>
+<li><a class="active" href="guide.html">Guía de intercambio<br>Trade Guidelines</a>
+<li class="active"><a href="links.html">Enlaces&nbsp;&nbsp;&nbsp;&nbsp;<br>Links</a>
+<li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List</a><li>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Libros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="javascript:void(0)" class="dropbtn">Libros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Books</a>
 <div class="dropdown-content">
 <a href="ebooks.html">Libros electronicos<br>eBooks</a>
 <a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
@@ -25,7 +26,7 @@ document.write(`
 </div>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Otros Vídeos&nbsp;&nbsp;&nbsp;&nbsp;<br>Other Videos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="javascript:void(0)" class="dropbtn">Otros Vídeos&nbsp;&nbsp;<br>Other Videos</a>
 <div class="dropdown-content">
 <a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
 <a href="movies.html">Películas<br>Movies</a>
@@ -36,7 +37,7 @@ document.write(`
 
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Otro Audio&nbsp;&nbsp;&nbsp;&nbsp;<br>Other Audio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="javascript:void(0)" class="dropbtn">Otro Audio<br>Other Audio</a>
 <div class="dropdown-content">
 <a href="vocalists3.html">Vocalistas<br>Vocalists</a>
 <a href="compilations2.html">Compilaciónes<br>Compilations</a>
@@ -47,7 +48,7 @@ document.write(`
 </div>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Música Clasica<br>Classical Music&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="javascript:void(0)" class="dropbtn">Música Clasica<br>Classical Music</a>
 <div class="dropdown-content">
 <a href="opera.html">Opéra<br>Opera</a>
 <a href="operetta.html">Opereta<br>Operetta</a>
@@ -182,7 +183,7 @@ document.write(`
 </div>
 </div>
 
-<li><a class="active2" href="main.html">&nbsp;<img src="images/misc/home.png">&nbsp;</li></a>
+<li><a class="active2" href="main.html"><img src="images/misc/home.png"></li></a>
 
 
 `);
