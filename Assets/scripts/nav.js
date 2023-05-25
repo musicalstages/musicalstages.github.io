@@ -75,7 +75,7 @@ document.write(`
 
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Disney Recordings<br>Grabaciones Disney</a>
+<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="27px"></a>
 <div class="dropdown-content">
 <a href="disney.html">Bandas Sonoras<br>Soundtracks</a>
 <a href="disney2.html">Musicales<br>Musicals</a>
