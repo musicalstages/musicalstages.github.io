@@ -65,12 +65,6 @@
 #albumlist td:nth-child(6) {
   text-align: center;
 }
-#albumlist td:nth-child(7) {
-  text-align: center;
-}
-#albumlist td:nth-child(8) {
-  text-align: center;
-}
 #albumlist img {
   border-radius: 8px;
 }
@@ -115,13 +109,7 @@
 #cast td:nth-child(6) {
   text-align: center;
 }
-#cast td:nth-child(7) {
-  text-align: center;
-}
-#cast td:nth-child(8) {
-  text-align: center;
-}
-#cast td:nth-child(12) {
+#cast td:nth-child(10) {
 font-weight: bold;
 }
 #cast img {
@@ -167,13 +155,7 @@ font-weight: bold;
 #castind td:nth-child(5) {
   text-align: center;
 }
-#castind td:nth-child(6) {
-  text-align: center;
-}
 #castind td:nth-child(7) {
-  text-align: center;
-}
-#castind td:nth-child(9) {
 font-weight: bold;
 }
 #castind img {
@@ -223,13 +205,7 @@ font-weight: bold;
 #boots  td:nth-child(7) {
   text-align: center;
 }
-#boots  td:nth-child(8) {
-  text-align: center;
-}
-#boots  td:nth-child(9) {
-  text-align: center;
-}
-#boots td:nth-child(13) {
+#boots td:nth-child(11) {
 font-weight: bold;
 }
 #boots  img {
@@ -279,13 +255,7 @@ font-weight: bold;
 #bootsind  td:nth-child(6) {
   text-align: center;
 }
-#bootsind  td:nth-child(7) {
-  text-align: center;
-}
 #bootsind  td:nth-child(8) {
-  text-align: center;
-}
-#bootsind  td:nth-child(10) {
 font-weight: bold;
 }
 #bootsind  img {
