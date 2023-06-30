@@ -90,7 +90,6 @@ document.write(`
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
 <a href="blood.html"><img src="images/misc/blood2.png" height="35px"></a>
-<a href="boat.html"><img src="images/misc/boat2.png" height="35px"></a>
 <a href="cabaret.html"><img src="images/misc/cabaret2.png" height="35px"></a>
 <a href="carousel.html"><img src="images/misc/carousel2.png" height="35px"></a>
 <a href="cats.html"><img src="images/misc/cats2.png" height="35px"></a>
@@ -98,10 +97,11 @@ document.write(`
 <a href="chicago.html"><img src="images/misc/chicago.png" height="35px"></a>
 <a href="dolly.html"><img src="images/misc/dolly.png" height="35px"></a>
 <a href="3penny.html"><img src="images/misc/3penny2.png" height="35px"></a>
+<a href="sisi.html"><img src="images/misc/sisi2.png" height="35px"></a>
 <a href="evita.html"><img src="images/misc/evita2.png" height="35px"></a>
 <a href="fame.html"><img src="images/misc/fame.png" height="35px"></a>
 <a href="fiddler.html"><img src="images/misc/fiddler2.png" height="35px"></a>
-<a href="forbid.html"><img src="images/misc/forbid.png" height="35px"></a>
+<a href="forbidden.html"><img src="images/misc/forbid.png" height="35px"></a>
 <a href="godspell.html"><img src="images/misc/godspell.png" height="35px"></a>
 <a href="grease.html"><img src="images/misc/grease2.png" height="35px"></a>
 <a href="guys.html"><img src="images/misc/guys2.png" height="35px"></a>
@@ -113,9 +113,11 @@ document.write(`
 <a href="joseph.html"><img src="images/misc/joseph2.png" height="35px"></a>
 <a href="kate.html"><img src="images/misc/kate2.png" height="35px"></a>
 <a href="king.html"><img src="images/misc/king2.png" height="35px"></a>
-<a href="lesmis.html"><img src="images/misc/lesmis2.png" height="35px"></a>
+<a href="shop.html"><img src="images/misc/shop2.png" height="35px"></a>
 <a href="mamma.html"><img src="images/misc/mamma2.png" height="35px"></a>
 <a href="mancha.html"><img src="images/misc/molm2.png" height="35px"></a>
+<a href="lesmis.html"><img src="images/misc/lesmis2.png" height="35px"></a>
+<a href="saigon.html"><img src="images/misc/saigon2.png" height="35px"></a>
 <a href="mfl.html"><img src="images/misc/mfl2.png" height="35px"></a>
 <a href="nddp.html"><img src="images/misc/nddp2.png" height="35px"></a>
 <a href="nunsense.html"><img src="images/misc/nunsense2.png" height="35px"></a>
@@ -126,9 +128,7 @@ document.write(`
 <a href="poto.html"><img src="images/misc/poto2.png" height="35px"></a>
 <a href="rent.html"><img src="images/misc/rent.png" height="35px"></a>
 <a href="rocky.html"><img src="images/misc/rocky2.png" height="35px"></a>
-<a href="saigon.html"><img src="images/misc/saigon2.png" height="35px"></a>
-<a href="shop.html"><img src="images/misc/shop2.png" height="35px"></a>
-<a href="sisi.html"><img src="images/misc/sisi2.png" height="35px"></a>
+<a href="boat.html"><img src="images/misc/boat2.png" height="35px"></a>
 <a href="som.html"><img src="images/misc/som2.png" height="35px"></a>
 <a href="starlight.html"><img src="images/misc/starlight.png" height="35px"></a>
 <a href="sunset.html"><img src="images/misc/sunset.png" height="35px"></a>
