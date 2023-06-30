@@ -176,15 +176,15 @@ document.write(`
 <a href="sisiboots.html"><img src="images/misc/sisi2.png" height="35px"></a>
 <a href="evitaboots.html"><img src="images/misc/evita2.png" height="35px"></a>
 <a href="folliesboots.html"><img src="images/misc/follies.png" height="35px"></a>
-<a href="gypsyboots.html"><img src="images/misc/gypsy.png" height="35px"></a>
+<a href="gypsyboots.html"><img src="images/misc/gypsy2.png" height="35px"></a>
 <a href="dollyboots.html"><img src="images/misc/dolly.png" height="35px"></a>
 <a href="jekyllboots.html"><img src="images/misc/jekyll2.png" height="35px"></a>
 <a href="jcsboots.html"><img src="images/misc/jcs2.png" height="35px"></a>
 <a href="josephboots.html"><img src="images/misc/joseph2.png" height="35px"></a>
 <a href="lesmisboots.html"><img src="images/misc/lesmis2.png" height="35px"></a>
 <a href="alnmboots.html"><img src="images/misc/almn2.png" height="35px"></a>
-<a href="potoboots.html"><img src="images/misc/poto2.png" height="35px"></a>
 <a href="saigonboots.html"><img src="images/misc/saigon2.png" height="35px"></a>
+<a href="potoboots.html"><img src="images/misc/poto2.png" height="35px"></a>
 <a href="sunsetboots.html"><img src="images/misc/sunset.png" height="35px"></a>
 <a href="sweeneyboots.html"><img src="images/misc/sweeney2.png" height="35px"></a>
 <a href="tanzboots.html"><img src="images/misc/tanz2.png" height="35px"></a>
